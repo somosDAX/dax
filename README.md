@@ -1,4 +1,4 @@
-readme_content = """# 🚀 DAX - Proyecto Web Principal
+🚀 DAX - Proyecto Web Principal
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react&logoColor=white" alt="React 19">
